@@ -22,8 +22,7 @@
             <artifactId>nd4j-common</artifactId>
             <version>1.0.0-beta2</version>
         </dependency>
-    </dependencies>
-    
+      
     <!--#Change 1 - Changes for Unit Test Coverage Percentage Update on SonarCloud Dashboard
 #By ASecurityGuru
 #5/11/2022 11:14 AM IST
